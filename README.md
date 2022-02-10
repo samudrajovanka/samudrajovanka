@@ -7,3 +7,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp
   <a href="https://dribbble.com/samudrajovanka" target="_blank"><img src="https://img.shields.io/badge/-Shots%20on%20Dribbble-ff69b4?style=flat-square&logo=dribbble&logoColor=white&link=https://dribbble.com/samudrajovanka" /></a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samudrajovanka&layout=compact&theme=tokyonight" alt="langs" height="165">
+</p>
