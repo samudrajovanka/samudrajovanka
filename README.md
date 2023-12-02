@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Helloo, I am <a href="https://jovanka-samudra.vercel.app/">Jovanka Samudra</a> 👋</h1>
+  <h1>Helloo, I am <a href="https://www.jovan.id/">Jovanka Samudra</a> 👋</h1>
   
   <p>I am a informatic student who is studying UI/UX Design, Web Development, and Backend Development</p>
   
